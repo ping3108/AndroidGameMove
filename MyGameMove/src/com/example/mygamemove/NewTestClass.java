@@ -8,4 +8,8 @@ public class NewTestClass{
 	}
 	
 	private int amount;
+	
+	public String getString(){
+		return "hey, change a src file to see what happen in github. great, huh?";
+	}
 }
